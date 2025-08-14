@@ -128,15 +128,19 @@ export default function AboutPage() {
             <div className="space-y-3">
               <div className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                 <Mail className="w-5 h-5 text-gray-600" />
-                <span className="text-gray-700 text-sm">abdirahman.afrah@email.com</span>
+                <span className="text-gray-700 text-sm">abdirahman8@email.com</span>
               </div>
               <div className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                 <Github className="w-5 h-5 text-gray-600" />
-                <span className="text-gray-700 text-sm">github.com/abdirahman-afrah</span>
+                <span className="text-gray-700 text-sm">github.com/ubdirahman</span>
               </div>
               <div className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
                 <Linkedin className="w-5 h-5 text-gray-600" />
-                <span className="text-gray-700 text-sm">linkedin.com/in/abdirahman-afrah</span>
+                <span className="text-gray-700 text-sm">linkedin.com/in/abdirahman</span>
+              </div>
+               <div className="flex items-center gap-3 p-3 bg-gray-50 rounded-lg">
+                <Linkedin className="w-5 h-5 text-gray-600" />
+                <span className="text-gray-700 text-sm">whatapp.com/https://wa.me/613201086</span>
               </div>
             </div>
           </CardContent>
